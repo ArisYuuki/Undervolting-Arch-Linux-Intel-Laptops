@@ -3,7 +3,9 @@
 ![CachyOS](https://img.shields.io/badge/CachyOS-Optimized-brightgreen)
 ![Intel](https://img.shields.io/badge/CPU-Intel-blue)
 
-Step by Step guide to the only successful method I found for undervolting 10th gen intel laptops using Arch Linux. I did not create the Undervolting tool, and as such, please refer to the original creator for any issues or troubleshooting steps - https://github.com/georgewhewell/undervolt.git
+Learn how to safely undervolt Intel CPUs on Arch Linux laptops.
+
+This repository provides a comprehensive, practical walkthrough for applying CPU undervolting on compatible Intel architectures using the Linux kernel, MSR tools, and runtime tuning. It covers hardware support checks, kernel configuration, & testing to help achieve better battery life, lower temperatures, and quieter operation on Arch‑based systems.
 # Intel CPU Undervolt Setup (Arch Linux)
 
 ⚠️ **Warning:** Undervolting incorrectly can cause system instability. Test carefully.
